@@ -32,3 +32,5 @@ Social Media Links:
 
 Links to the website's official social media profiles for visitors to connect and engage with the brand.
 When creating content for Day 1 of the website, it's essential to focus on clarity, authenticity, and providing value to the visitors. Ensure that the content reflects the brand's identity and resonates with the target audience.
+
+git add .
